@@ -1,6 +1,9 @@
  <img src= "https://user-images.githubusercontent.com/49343277/117007629-e079bf80-acb7-11eb-971b-5a92feacadaa.png" width = "250">
 
- 
+# Financial Application - Stock Trading
+
+APIS: IEX CLOUD, YAHOO
+  
 **What inspired you to create this project?**
 
 Trading is ubiquitous nowadays because of the advancement of technology. With a click on our phone you can buy a stock and earn or lose money. Noone wants to lose money, so we wanted to create a program that would help you make trading decisions that maximize the potential to get a return and beat the market! All you have to do with our program is enter the stock you are interested in, and it will predict the closing price of the stock over the next 7 days, which gives the user a better chance to come in at a position where they make money. We were also inspired to create this project after attending yesterday’s workshop about IEX Cloud and APIs. We were truly amazed by how easy it is to utilize an API, and we wanted to do so with financial data. 
