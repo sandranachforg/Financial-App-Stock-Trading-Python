@@ -3,10 +3,12 @@
 
 Trading is ubiquitous nowadays because of the advancement of technology. With a click on our phone you can buy a stock and earn or lose money. Noone wants to lose money, so we wanted to create a program that would help you make trading decisions that maximize the potential to get a return and beat the market! All you have to do with our program is enter the stock you are interested in, and it will predict the closing price of the stock over the next 7 days, which gives the user a better chance to come in at a position where they make money. We were also inspired to create this project after attending yesterday’s workshop about IEX Cloud and APIs. We were truly amazed by how easy it is to utilize an API, and we wanted to do so with financial data. 
 <br />
+
 **Who created the project?**
 
 This project was created by Sandra Nachfoerg, Samantha Tavares, and Daniel Gurvich, three Computer Information Systems students at Baruch College.
 <br />
+
 **What does your project actually do?**
 
 Our project analyzes the growth of the stock that the user inputs, the risk of holding the stock, and future growth potential with a linear regression model. Our project provides insight into the stock performance in relation to the market, and checks the beta and alpha values of the stock to let the user know whether the stock is aggressive or defensive. 
