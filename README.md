@@ -1,4 +1,4 @@
- <img src= "https://user-images.githubusercontent.com/49343277/117007629-e079bf80-acb7-11eb-971b-5a92feacadaa.png" width = "250">
+ <img src= "https://user-images.githubusercontent.com/49343277/117007629-e079bf80-acb7-11eb-971b-5a92feacadaa.png" width = "100">
 
 # Financial Application - Stock Trading
 
